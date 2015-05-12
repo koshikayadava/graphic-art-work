@@ -1,5 +1,6 @@
 # graphic-art-work
-scientific schematics 
+scientific schematics
+all work in this repository
 copyright 2015 koshika yadava
 
-all work in this repository
+
